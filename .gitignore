@@ -1,0 +1,6 @@
+.classpath
+.project
+.settings/
+.springBeans
+target
+src/main/webapp/WEB-INF/lib
